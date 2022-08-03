@@ -1,0 +1,10 @@
+.todoList {
+  width: 500px;
+  box-shadow: 5px 5px 5px gray;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 20px auto;
+  color: white;
+  background: linear-gradient(to bottom right, #33ccff 0%, #ffcc66 100%);
+}
